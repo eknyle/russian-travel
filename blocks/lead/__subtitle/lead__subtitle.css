@@ -1,5 +1,4 @@
 .lead__subtitle{
-  font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: max(calc(0.05*100vw),16px);

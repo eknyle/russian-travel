@@ -1,6 +1,5 @@
 .lead__title{
   padding: 0;
-  font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
   font-size: max(calc(0.125*100vw),40px);
