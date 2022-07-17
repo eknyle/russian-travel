@@ -1,0 +1,17 @@
+.place__title{
+  padding: 0;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 109%;
+  color: #FFFFFF;
+  margin: 0 16px;
+  text-align: left;
+  grid-area: "title";
+}
+@media screen and (min-width:768px) {
+  .place__title{
+    margin-left: 0;
+  }
+}
