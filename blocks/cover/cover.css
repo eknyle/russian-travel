@@ -33,13 +33,13 @@
 .cover:hover::before{
   opacity: 0.8;
 }
-@media screen and (min-width:768px) and (max-width:1023px){
+@media screen and (min-width:768px){
   .cover{
     margin: 0 0 88px 0;
     height: 62vw;
   }
 }
-@media screen and (min-width:1024px) and (max-width:1279px){
+@media screen and (min-width:1024px){
   .cover{
     margin: 0 0 92px 0;
     height: 62vw;
@@ -49,5 +49,6 @@
   .cover{
     margin: 0 48px 92px 48px;
     width: 92%;
+    height: 56%;
   }
 }

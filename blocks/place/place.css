@@ -6,7 +6,7 @@
   grid-template-areas:
   "title"
   "website"
-  "image" minmax(320px,1fr)
+  "image"
   "paragraph";
   gap:32px;
 }
@@ -16,7 +16,7 @@
     grid-template-columns: repeat(2,1fr);
     grid-template-areas:
     "title website"
-    "image paragraph" minmax(340px,1fr);
+    "image paragraph";
     gap:48px 28px;
   }
 }
@@ -26,7 +26,7 @@
     grid-template-columns: repeat(2,1fr);
     grid-template-areas:
     "title website"
-    "image paragraph" minmax(440px,1fr);
+    "image paragraph";
     gap:48px 32px;
   }
 }
@@ -36,7 +36,7 @@
     grid-template-columns: repeat(2,1fr);
     grid-template-areas:
     "title website"
-    "image paragraph" minmax(460px,1fr);
+    "image paragraph";
     gap:48px 40px;
   }
 }

@@ -9,3 +9,8 @@
   letter-spacing: 2px;
   color: #AAAAAA;
 }
+@media screen and (min-width:1024px){
+  .place__url-heading{
+    line-height: 170%;
+  }
+}
