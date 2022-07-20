@@ -1,20 +1,18 @@
 .lead{
-  margin: 0px 0px 64px 0px;
+  margin: 0 0 min(20% , 88px) 0;
   padding: 0;
   text-align: center;
+  align-self: center;
+  width: 100%;
 }
 @media screen and (min-width:768px){
-  .lead{
-    margin: 0px 0px 88px 0px;
+  .lead{    
+    margin-bottom: 88px;
   }
 }
 @media screen and (min-width:1024px){
   .lead{
-    margin: 0px 48px 92px 48px;
-  }
-}
-@media  screen and (min-width:1280px){
-  .lead{
-    margin: 0px 148px 92px 148px;
+    width: 90%;
+    margin-bottom: 92px;
   }
 }

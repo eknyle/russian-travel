@@ -18,8 +18,3 @@
     margin: 0;
   }
 }
-@media  screen and (min-width:1280px){
-  .lead__caption{
-    margin: 0px;
-  }
-}

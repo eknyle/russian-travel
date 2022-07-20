@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   text-decoration: none;
-  color: #FFFFFF;
-  position: relative;
+  color: FFFFFF;
   z-index: 2;
+  vertical-align: middle;
 }

@@ -13,7 +13,7 @@
 @media screen and (min-width:768px){
   .place{
     display: grid;
-    grid-template-columns: repeat(2,1fr);
+    grid-template-columns: 47.7% 1fr;
     grid-template-areas:
     "title website"
     "image paragraph";
@@ -23,7 +23,7 @@
 @media screen and (min-width:1024px){
   .place{
     display: grid;
-    grid-template-columns: repeat(2,1fr);
+    grid-template-columns: 47% 1fr;
     grid-template-areas:
     "title website"
     "image paragraph";
@@ -33,7 +33,7 @@
 @media  screen and (min-width:1280px){
   .place{
     display: grid;
-    grid-template-columns: repeat(2,1fr);
+    grid-template-columns: 46.7% 1fr;
     grid-template-areas:
     "title website"
     "image paragraph";

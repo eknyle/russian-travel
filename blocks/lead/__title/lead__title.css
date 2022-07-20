@@ -6,26 +6,26 @@
   line-height: 110%;
   text-align: center;
   color: #FFFFFF;
-  margin:0 16px 16px 16px;
+  margin:0 0 5% 0;
 }
 @media screen and (min-width:768px){
   .lead__title{
     font-size: 96px;
     line-height: 104%;
-    margin:0 24px 32px 24px;
+    margin-bottom:4.1% ;
   }
 }
 @media screen and (min-width:1024px){
   .lead__title{
     font-size: 96px;
     line-height: 104%;
-    margin:0 104px 32px 104px;
+    margin-bottom:3.45% ;
   }
 }
 @media  screen and (min-width:1280px){
   .lead__title{
     font-size: 96px;
     line-height: 104%;
-    margin:0 132px 32px 132px;
+    margin-bottom:3.25% ;
   }
 }

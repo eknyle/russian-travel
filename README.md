@@ -12,7 +12,9 @@
 
 **О проекте**
 
-Проект рассказывает о путешествии по России. [Ссылка на проект в GitHub](https://github.com/eknyle/russian-travel)
+Проект рассказывает о путешествии по России. 
+[Ссылка на проект в GitHub](https://github.com/eknyle/russian-travel)
+[Ссылка на опубликованную страницу](https://eknyle.github.io/russian-travel/)
 В проекте использозвалась grid и flex верстка.
 Сверстан по макету в Figma [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
