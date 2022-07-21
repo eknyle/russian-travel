@@ -7,13 +7,14 @@
   color: #FFFFFF;
   margin: 0 16px;
   text-align: left;
-  grid-area: "title";
+  grid-area: title;
 }
 @media screen and (min-width:768px) {
   .place__title{
-    margin-left: 0;
+    margin: 0;
     font-size: 42px;
     line-height: 110%;
+    white-space:pre-line;
   }
 }
 @media screen and (min-width:1024px) {
@@ -21,5 +22,6 @@
     margin-left: 0;
     font-size: 72px;
     line-height: 106%;
+    white-space:pre-line;
   }
 }

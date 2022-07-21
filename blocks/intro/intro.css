@@ -1,14 +1,13 @@
 .intro{
-  width: 90%;
+  width: 93%;
   margin: 0 0 min(20%,88px) 0;
   justify-self: center;
   align-self: center;
-  position: relative;
   text-align: left;
 }
 @media screen and (min-width:768px){
   .intro{
-    margin-bottom: min(11,4%,92px);
+    margin-bottom:88px;
   }
 }
 @media screen and (min-width:1024px){

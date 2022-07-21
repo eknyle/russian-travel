@@ -1,9 +1,10 @@
 .place__paragraph-list{
   margin: 0;
   padding: 0;
-  grid-area: "paragraph";
+  grid-area: paragraph;
   display:grid;
   grid-template-columns: repeat(1,90%);
+  grid-auto-rows: min-content;
   justify-content: center;
   gap: 25px;
 }

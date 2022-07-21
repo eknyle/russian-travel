@@ -6,6 +6,7 @@
   color: #FFFFFF;
   margin-top: 0;
   margin-bottom:40px;
+  white-space:pre-line;
 }
 @media screen and (min-width:768px){
   .intro__title{
